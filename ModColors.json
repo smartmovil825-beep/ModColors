@@ -1,0 +1,12 @@
+{
+    "mods": [
+        {
+            "name": "Enemy HP Bar",
+            "color": "Green"
+        },
+        {
+            "name": "Satchel",
+            "color": "Green"
+        }
+    ]
+}
