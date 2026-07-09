@@ -8,5 +8,85 @@
             "name": "Satchel",
             "color": "Green"
         }
+        {
+            "name": "Satchel",
+            "color": "Green"
+        },
+        {
+            "name": "The Pain of the Path",
+            "color": "Green"
+        },
+        {
+            "name": "Vasi",
+            "color": "Green"
+        },
+        {
+            "name": "HollowPoint",
+            "color": "Yellow "
+        },
+        {
+            "name": "GodhomeGeo",
+            "color": "Green"
+        },
+        {
+            "name": "AlwaysHazardRespawn",
+            "color": "Green"
+        },
+        {
+            "name": "MarkothShield",
+            "color": "Green"
+        },
+        {
+            "name": "DanielSteginkUtils",
+            "color": "Green"
+        },
+        {
+            "name": "PlatformingQoL",
+            "color": "Yellow"
+        },
+        {
+            "name": "Dash Slash Plus",
+            "color": "Yellow"
+        },
+        {
+            "name": "HKMirror",
+            "color": "Green"
+        },
+        {
+           "name": "SFCore",
+           "color": "Green"
+        },
+        {
+           "name": "CustomizableAbilities",
+           "color": "Green"
+        },
+        {
+           "name": "Geo Remover",
+           "color": "Green"
+        },
+        {
+           "name": "Mask Remover",
+           "color": "Green"
+        },
+        {
+           "name": "Silksong Healing",
+           "color": "Yellow"
+        },
+        {
+           "name": "AbsoluteZote",
+           "color": "Green"
+        },
+        {
+           "name": "Benchwarp",
+           "color": "Green"
+        },
+        {
+           "name": "Better Void Heart",
+           "color": "Green"
+        },
+        {
+           "name": "CompassAlwaysOn",
+           "color": "Green"
+        }
     ]
 }
