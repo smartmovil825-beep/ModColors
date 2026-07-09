@@ -118,7 +118,7 @@
         },
         {
             "name": "Pale Court Charms",
-            "color": "Green"
+            "color": "Yellow"
         },
         {
             "name": "Infection Bomb",
@@ -186,7 +186,7 @@
         },
         {
             "name": "Vanilla Map Mod",
-            "volor": "Green"
+            "color": "Green"
         },
         {
             "name": "ConnectionMetadataInjector",
@@ -197,12 +197,124 @@
             "color": "Green"
         },
         {
-             "name": "Menderbug's Revenge",
-             "color": "Green"
+            "name": "Menderbug's Revenge",
+            "color": "Green"
         },
         {
-             "name": "Hell Mod",
-             "color": "Green"
-        }
+            "name": "Hell Mod",
+            "color": "Green"
+        },
+        {    
+            "name": "FrogCore",
+            "color": "Green"
+        },
+        {    
+            "name": "ImmortalLight",
+            "color": "Green"
+        },
+        {    
+            "name": "WavLib",
+            "color": "Green"
+        },
+        {    
+            "name": "CustomPantheon",
+            "color": "Green"
+        },
+        {    
+            "name": "Osmi",
+            "color": "Red"
+        },
+        {    
+            "name": "TribeOfBattle",
+            "color": "Red"
+        },
+        {    
+            "name": "Mantis Gods",
+            "color": "Green"
+        },
+        {   
+            "name": "WeaverCore",
+            "color": "Red"
+        },
+        {   
+            "name": "More Godhome Space",
+            "color": "Red"
+        },
+        {   
+            "name": "Ancient Aspid",
+            "color": "Red"
+        },
+        {
+            "name": "Nosk God",
+            "color": "Yellow"
+        },
+        {   
+            "name": "Always Furious",
+            "color": "Yellow"
+        },
+        {   
+            "name": "Cagney Carnation",
+            "color": "Red"
+        },
+        {   
+            "name": "Corrupted Kin",
+            "color": "Red"
+        },
+        {
+            "name": "Shade Lord",
+            "color": "Red"
+        },
+        {
+            "name": "AnyZote",
+            "color": "Green"
+        },
+        {   
+            "name": "INFINITY",
+            "color": "Green"
+        },
+        {
+            "name": "Soul Sovereign",
+            "color": "Green"
+        },
+        {   
+            "name": "Soul Paladin",
+            "color": "Green"
+        },
+        {
+            "name": "Nailgod",
+            "color": "Green"
+        },
+        {
+            "name": "Brothers of Battle",
+            "color": "Green"
+        },
+        {
+            "name": "Nailmaster's Pride",
+            "color": "Yellow"
+        },
+        {
+            "name": "Pale Shadow",
+            "color": "Green"
+        },
+        {
+            "name": "Crystalblobbles",
+            "color": "Red"
+        },
+        {
+            "name": "Crystal Machinist",
+            "color": "Red"
+        },
+        { 
+            "name": "Vessel May Cry",
+            "color": "Green"
+        },
+        {
+            "name": "The H.I.V.E",
+            "color": "Green"
+        },
+        {
+            "name": "Sunset Rad",
+            "color": "Green"
+        }         
     ]
 }
