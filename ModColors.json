@@ -320,6 +320,11 @@
         {
             "name": "CelesteKnight",
             "color": "Red"
+        }
+        },
+        {
+            "name": "CelesteDash",
+            "color": "Red"
         }         
     ]
 }
