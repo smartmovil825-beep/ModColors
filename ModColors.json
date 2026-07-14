@@ -18,7 +18,7 @@
         },
         {
             "name": "HollowPoint",
-            "color": "Yellow "
+            "color": "Yellow"
         },
         {
             "name": "GodhomeGeo",
@@ -85,7 +85,7 @@
             "color": "Green"
         },
         {
-            "name": "Puré Vessel Skills",
+            "name": "Pure Vessel Skills",
             "color": "Red"
         },
         {
@@ -315,6 +315,86 @@
         {
             "name": "Sunset Rad",
             "color": "Green"
+        },
+        {
+            "name": "Palette Swapper",
+            "color": "Yellow"
+        },
+        {
+            "name": "BlindRadiance",
+            "color": "Green"
+        },
+        {
+            "name": "MylaFlower",
+            "color": "Green"
+        },
+        {
+            "name": "GraphicOptions",
+            "color": "Green"
+        },
+        {
+            "name": "QoL",
+            "color": "Green"
+        },
+        {
+            "name": "RemoveLaggyObjects",
+            "color": "Green"
+        },
+        {
+            "name": "WideCamera",
+            "color": "Green"
+        },
+        {
+            "name": "DarkerTransitions",
+            "color": "Green"
+        },
+        {
+            "name": "PathOfPureVessel",
+            "color": "Green"
+        },
+        {
+            "name": "ExtraMenuBackgrounds",
+            "color": "Green"
+        },
+        {
+            "name": "Pet",
+            "color": "Green"
+        },
+        {
+            "name": "Mirrored Hallownest",
+            "color": "Yellow"
+        },
+        {
+            "name": "DeathCounter",
+            "color": "Green"
+        },
+        {
+            "name": "RadiantMenu",
+            "color": "Green"
+        },
+        {
+            "name": "AsciiCamera",
+            "color": "Red"
+        },
+        {
+            "name": "Konpanion",
+            "color": "Yellow"
+        },
+        {
+            "name": "Hall of Gods Extras",
+            "color": "Green"
+        },
+        {
+            "name": "Gatling Aspid",
+            "color": "Red"
+        },
+        {
+            "name": "ReopenCityDoor",
+            "color": "Green"
+        },
+        {
+            "name": "CharmPreset",
+            "color": "Red"
         }
     ]
 }
